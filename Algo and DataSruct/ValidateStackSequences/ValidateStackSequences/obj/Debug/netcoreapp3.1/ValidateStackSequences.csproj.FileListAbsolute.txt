@@ -1,0 +1,13 @@
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/bin/Debug/netcoreapp3.1/ValidateStackSequences.deps.json
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/bin/Debug/netcoreapp3.1/ValidateStackSequences.runtimeconfig.json
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/bin/Debug/netcoreapp3.1/ValidateStackSequences.runtimeconfig.dev.json
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/bin/Debug/netcoreapp3.1/ValidateStackSequences.dll
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/bin/Debug/netcoreapp3.1/ValidateStackSequences.pdb
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/obj/Debug/netcoreapp3.1/ValidateStackSequences.csproj.AssemblyReference.cache
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/obj/Debug/netcoreapp3.1/ValidateStackSequences.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/obj/Debug/netcoreapp3.1/ValidateStackSequences.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/obj/Debug/netcoreapp3.1/ValidateStackSequences.AssemblyInfo.cs
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/obj/Debug/netcoreapp3.1/ValidateStackSequences.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/obj/Debug/netcoreapp3.1/ValidateStackSequences.dll
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/obj/Debug/netcoreapp3.1/ValidateStackSequences.pdb
+/Users/lucifer/Projects/ValidateStackSequences/ValidateStackSequences/obj/Debug/netcoreapp3.1/ValidateStackSequences.genruntimeconfig.cache
