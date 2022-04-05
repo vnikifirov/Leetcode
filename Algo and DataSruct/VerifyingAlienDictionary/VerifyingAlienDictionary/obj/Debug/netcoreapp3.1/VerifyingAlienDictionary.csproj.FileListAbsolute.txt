@@ -1,0 +1,13 @@
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/bin/Debug/netcoreapp3.1/VerifyingAlienDictionary.deps.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/bin/Debug/netcoreapp3.1/VerifyingAlienDictionary.runtimeconfig.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/bin/Debug/netcoreapp3.1/VerifyingAlienDictionary.runtimeconfig.dev.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/bin/Debug/netcoreapp3.1/VerifyingAlienDictionary.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/bin/Debug/netcoreapp3.1/VerifyingAlienDictionary.pdb
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/obj/Debug/netcoreapp3.1/VerifyingAlienDictionary.csproj.AssemblyReference.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/obj/Debug/netcoreapp3.1/VerifyingAlienDictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/obj/Debug/netcoreapp3.1/VerifyingAlienDictionary.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/obj/Debug/netcoreapp3.1/VerifyingAlienDictionary.AssemblyInfo.cs
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/obj/Debug/netcoreapp3.1/VerifyingAlienDictionary.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/obj/Debug/netcoreapp3.1/VerifyingAlienDictionary.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/obj/Debug/netcoreapp3.1/VerifyingAlienDictionary.pdb
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/VerifyingAlienDictionary/VerifyingAlienDictionary/obj/Debug/netcoreapp3.1/VerifyingAlienDictionary.genruntimeconfig.cache

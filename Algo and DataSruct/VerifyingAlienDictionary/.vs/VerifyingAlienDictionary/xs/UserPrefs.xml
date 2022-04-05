@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{18F06B49-76BD-4ED6-9F67-1A634A5D9EE1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VerifyingAlienDictionary/Program.cs">
+    <Files>
+      <File FileName="VerifyingAlienDictionary/Program.cs" Line="73" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VerifyingAlienDictionary" expanded="True">
+            <Node name="VerifyingAlienDictionary" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VerifyingAlienDictionary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

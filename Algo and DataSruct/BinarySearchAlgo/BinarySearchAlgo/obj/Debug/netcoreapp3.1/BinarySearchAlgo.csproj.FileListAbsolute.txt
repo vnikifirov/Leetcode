@@ -1,0 +1,13 @@
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/bin/Debug/netcoreapp3.1/BinarySearchAlgo.deps.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/bin/Debug/netcoreapp3.1/BinarySearchAlgo.runtimeconfig.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/bin/Debug/netcoreapp3.1/BinarySearchAlgo.runtimeconfig.dev.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/bin/Debug/netcoreapp3.1/BinarySearchAlgo.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/bin/Debug/netcoreapp3.1/BinarySearchAlgo.pdb
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/obj/Debug/netcoreapp3.1/BinarySearchAlgo.csproj.AssemblyReference.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/obj/Debug/netcoreapp3.1/BinarySearchAlgo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/obj/Debug/netcoreapp3.1/BinarySearchAlgo.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/obj/Debug/netcoreapp3.1/BinarySearchAlgo.AssemblyInfo.cs
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/obj/Debug/netcoreapp3.1/BinarySearchAlgo.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/obj/Debug/netcoreapp3.1/BinarySearchAlgo.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/obj/Debug/netcoreapp3.1/BinarySearchAlgo.pdb
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/BinarySearchAlgo/BinarySearchAlgo/obj/Debug/netcoreapp3.1/BinarySearchAlgo.genruntimeconfig.cache

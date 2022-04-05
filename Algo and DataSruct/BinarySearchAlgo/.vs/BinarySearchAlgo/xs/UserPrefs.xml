@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1DE01D1A-CABF-4B8A-BEE7-C70F34AB51BC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinarySearchAlgo/Program.cs">
+    <Files>
+      <File FileName="BinarySearchAlgo/Program.cs" Line="101" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BinarySearchAlgo" expanded="True" selected="True">
+            <Node name="BinarySearchAlgo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BinarySearchAlgo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
