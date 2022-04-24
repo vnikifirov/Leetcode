@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0021B240-C860-458A-BF79-8BD5C1D16A75}|Default">
+  <MonoDevelop.Ide.ItemProperties.MinimumRoundsToCompleteAllTasks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MinimumRoundsToCompleteAllTasks" expanded="True">
+            <Node name="MinimumRoundsToCompleteAllTasks" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>matrix[row, col] </Value>
+          <Value>value </Value>
+          <Value>value &gt; 0 &amp;&amp; value &lt;= 9</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

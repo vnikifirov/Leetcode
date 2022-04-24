@@ -1,0 +1,15 @@
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/bin/Debug/net5.0/MinimumRoundsToCompleteAllTasks.deps.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/bin/Debug/net5.0/MinimumRoundsToCompleteAllTasks.runtimeconfig.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/bin/Debug/net5.0/MinimumRoundsToCompleteAllTasks.runtimeconfig.dev.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/bin/Debug/net5.0/MinimumRoundsToCompleteAllTasks.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/bin/Debug/net5.0/ref/MinimumRoundsToCompleteAllTasks.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/bin/Debug/net5.0/MinimumRoundsToCompleteAllTasks.pdb
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/obj/Debug/net5.0/MinimumRoundsToCompleteAllTasks.csproj.AssemblyReference.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/obj/Debug/net5.0/MinimumRoundsToCompleteAllTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/obj/Debug/net5.0/MinimumRoundsToCompleteAllTasks.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/obj/Debug/net5.0/MinimumRoundsToCompleteAllTasks.AssemblyInfo.cs
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/obj/Debug/net5.0/MinimumRoundsToCompleteAllTasks.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/obj/Debug/net5.0/MinimumRoundsToCompleteAllTasks.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/obj/Debug/net5.0/ref/MinimumRoundsToCompleteAllTasks.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/obj/Debug/net5.0/MinimumRoundsToCompleteAllTasks.pdb
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/MinimumRoundsToCompleteAllTasks/MinimumRoundsToCompleteAllTasks/obj/Debug/net5.0/MinimumRoundsToCompleteAllTasks.genruntimeconfig.cache

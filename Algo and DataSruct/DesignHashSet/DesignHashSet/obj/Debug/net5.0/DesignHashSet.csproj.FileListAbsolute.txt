@@ -1,0 +1,15 @@
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/bin/Debug/net5.0/DesignHashSet.deps.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/bin/Debug/net5.0/DesignHashSet.runtimeconfig.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/bin/Debug/net5.0/DesignHashSet.runtimeconfig.dev.json
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/bin/Debug/net5.0/DesignHashSet.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/bin/Debug/net5.0/ref/DesignHashSet.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/bin/Debug/net5.0/DesignHashSet.pdb
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/obj/Debug/net5.0/DesignHashSet.csproj.AssemblyReference.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/obj/Debug/net5.0/DesignHashSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/obj/Debug/net5.0/DesignHashSet.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/obj/Debug/net5.0/DesignHashSet.AssemblyInfo.cs
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/obj/Debug/net5.0/DesignHashSet.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/obj/Debug/net5.0/DesignHashSet.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/obj/Debug/net5.0/ref/DesignHashSet.dll
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/obj/Debug/net5.0/DesignHashSet.pdb
+/Users/lucifer/Projects/Repos/Leetcode/Algo and DataSruct/DesignHashSet/DesignHashSet/obj/Debug/net5.0/DesignHashSet.genruntimeconfig.cache
