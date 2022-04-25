@@ -127,9 +127,9 @@ namespace DesignHashSet
         /// <summary>
         /// Node of Hash Map
         /// </summary>
-        private record Slot(int Key, int Value)
+        private record Slot(int Key)
         {
-            public int Value { get; set; } = Value;
+            public int Value { get; set; }
             /// <summary>
             /// Next node of Hash Map
             /// </summary>
@@ -150,7 +150,7 @@ namespace DesignHashSet
         {
             var hashKey = key.GetHashCode() % _size;
             if (Slots[hashKey] is null)
-                Slots[hashKey] = new Slot(key, value);
+                Slots[hashKey] = new Slot(key) with { Value = value };
             else
             {
                 var slot = Slots[hashKey];
@@ -160,7 +160,7 @@ namespace DesignHashSet
                 {
                     if (slot.Key == key)
                     {
-                        Slots[hashKey].Value = value;
+                        slot.Value = value;
                         return;
                     }
 
@@ -168,9 +168,9 @@ namespace DesignHashSet
                 }
 
                 if (slot.Key != key)
-                    slot.Next = new Slot(key, value);
+                    slot.Next = new Slot(key) with { Value = value };
                 else
-                    Slots[hashKey].Value = value;
+                    slot.Value = value;
             }
         }
 
