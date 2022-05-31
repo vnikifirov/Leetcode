@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9145B72E-5033-440F-B79F-90B49300CAF1}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ApplyDiscountToPrices.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApplyDiscountToPrices.Console/Program.cs">
+    <Files>
+      <File FileName="ApplyDiscountToPrices.Console/Program.cs" Line="22" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApplyDiscountToPrices" expanded="True">
+            <Node name="ApplyDiscountToPrices.Console" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
